@@ -1,0 +1,10 @@
+{
+  "name": "记账",
+  "short_name": "记账",
+  "description": "个人记账应用",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF5F7",
+  "theme_color": "#FFF5F7"
+}
